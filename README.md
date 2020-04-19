@@ -1,2 +1,4 @@
 # covid-19-primer
-Demonstation of pandemic data visualization
+Demonstration of pandemic data visualization
+
+[! alt text](change2020-04-18.png "Logo title")
